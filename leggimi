@@ -1,0 +1,14 @@
+# ecw-nan-dev
+
+Progetto Educazione Civica Nanchino,
+
+Ho avuto il compito di dover creare un website riguardante il Massacro di Nanchino, una delle tante violenze estremamente atroci commesse dall'uomo, questo ebbero luogo a Nánjīng (Cina), a partire dal 13 dicembre 1937 con una durata pari a sei settimane di irruenza.
+
+La visione del sito web è pari a quella di una pagina di giornale dei tempi, ovviamente in Italiano, che ricorda le vecchie macchine da scrivere dunque il font monospace.
+
+I colori sono basilari, contrasti di nero e bianco.
+
+Prossimi upgrade:
+- Inserimento testi e immagini dei diversi container
+- Aggiunta di maggiore descrizione (sempre basilare e sintetizzata per un pubblico popolare) riguardante il massacro
+- CSS
